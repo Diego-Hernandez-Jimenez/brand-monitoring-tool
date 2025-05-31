@@ -1,0 +1,15 @@
+altair==5.5.0
+bertopic==0.17.0
+gradio==5.31.0
+gradio-client==1.10.1
+groq==0.25.0
+hdbscan==0.8.40
+nltk==3.9.1
+numpy==2.0.2
+pandas==2.2.2
+requests==2.32.3
+safetensors==0.5.3
+scikit-learn==1.6.1
+sentence-transformers==4.1.0
+textblob==0.19.0
+umap-learn==0.5.7
